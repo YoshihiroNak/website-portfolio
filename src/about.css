@@ -36,6 +36,11 @@ a {
     align-items: center;
 }
 
+header a:hover {
+    cursor: pointer;
+    background:rgba(255,165,0, 0.5);
+    transition-duration: 0.3s;
+}
 
 
 article {
@@ -92,7 +97,7 @@ justify-content: flex-end;
 align-items: center; */
 /* padding: 1rem; */
 position: fixed;
-/* right: 1.5rem; */
+right: 1.5rem;
 /* align-items: center; */
     }
 
@@ -131,6 +136,9 @@ position: fixed;
 }
 
 @media only screen and (max-width: 768px) {
+
+
+
     article , h3 , p {
         display: block;
     }
