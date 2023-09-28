@@ -3,34 +3,24 @@
     margin: 0;
     padding: 0;
 }
-
+/* background image  */
 body {
     background: url("assets/IMG_3514.jpg") 60% no-repeat;
-    /* background-repeat:  no-repeat; */
     background-attachment: fixed;
     background-size: cover;
-    /* flex-direction: column; */
     color: white;
 }
 
+/* header navigation area  */
+
 header {
-    /* border: 2px solid white; */
     display: flex;
     flex-direction: column;
     align-items: center;
     margin: 1rem;
-    /* justify-content: space-around; */
-}
-
-
-main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 header a {
-    /* border: 2px solid white; */
     color: white;
     padding: 0.5rem;
     margin: 0.5rem;
@@ -51,24 +41,26 @@ header img {
     height: auto;
 }
 
+/* main blogpost area  */
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 article {
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
-    /* text-align: center; */
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(0,0,0,0.5);
     padding: 1rem 0.5rem;
     margin:1rem 0.5rem;
-    /* width: 90%; */
 }
 
 article img {
     width: 23rem;
     height: 28rem;
     display: flex;
-    /* margin: 1rem; */
-    /* justify-content: center; */
-    /* text-align: center; */
     margin: 0 auto;
 }
 
@@ -86,8 +78,9 @@ p {
     text-align: center;
     color: white;
     margin-top: 1rem;
-    padding: 1rem;   
 }
+
+/* button area  */
 
 .button {
     text-align: center;
@@ -110,35 +103,29 @@ a.btn--orange:hover {
     background: #f56500;
 }
 
+/* footer area  */
 
 footer {
     text-align: center;
 }
 
+/* Tablet and desktop styles  */
+
 @media only screen and (min-width: 768px) {
     header {
-        /* border: 2px solid white; */
         display: flex;
         flex-direction: row;
         justify-content: center;
-        /* align-items: center; */
         margin: 1rem;
-        /* justify-content: space-around; */
-        border: 2px solid white;
-        /* display: flex; */
         flex-direction: row;
         justify-content: center;
-        /* align-items: center; */
         margin: 1rem;
         justify-content: flex-end;
-        /* flex-direction: column;
-        align-items: center; */
         position: fixed;
         right: 1.5rem;
     }
 
     div {
-        /* border: 2ox solid red; */
         padding: 5rem;
     }
 
