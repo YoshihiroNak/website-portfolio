@@ -45,35 +45,6 @@ header img {
 
 /* links of resume and git hub area  */
 
-/* click animation area  */
-@keyframes click-me-1 {
-    10% {
-        background: rgba(255,165,0, 0.1);
-    }
-    25% { 
-        background: rgba(255,165,0, 0.2); 
-    } 50% { 
-        background: rgba( 255, 165, 0, 0.25 ); 
-    } 75% { 
-        background: rgba( 255, 0, 0, 0.25 ); 
-    } 100% {
-        background: rgba( 255, 0, 0, 0.2 );
-    }
-} 
-@keyframes click-me-2 {
-    10% {
-        background: rgba(255,0,0, 0.1);
-    }
-    25% { 
-        background: rgba(255,0,0, 0.2); 
-    } 50% { 
-        background: rgba( 255, 0, 0, 0.25 ); 
-    } 75% { 
-        background: rgba( 255, 165, 0, 0.25 ); 
-    } 100% {
-        background: rgba( 255, 165, 0, 0.2 );
-    }
-} 
 
 div {
     display: flex;
@@ -82,15 +53,6 @@ div {
     margin: 1rem;
 }
 
-div .resume {
-    animation: click-me-1 3s ease-out 3s infinite;
-    border-radius: 20px;
-}
-
-div .github {
-    animation: click-me-2 3s ease-out 3s infinite;
-    border-radius: 20px;
-}
 
 div img {
     width: 2rem;
@@ -138,21 +100,16 @@ footer {
 
 @media only screen and (min-width: 768px) {
     header {
-        display: flex;
         flex-direction: row;
-        justify-content: center;
         margin: 1rem;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        margin: 1rem;
-        justify-content: flex-end;
         position: fixed;
         right: 1.5rem;
     }
 
     div {
         margin-top: 16rem;
+        flex-direction: row;
+        justify-content: center;
     }
 
     #work {

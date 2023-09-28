@@ -86,9 +86,7 @@ footer {
     header {
 display: flex;
 flex-direction: row;
-justify-content: center;
 margin: 1rem;
-justify-content: flex-end;
 position: fixed;
 right: 1.5rem;
     }
@@ -99,11 +97,9 @@ right: 1.5rem;
     }
 
     article img {
-        align-self: center;
         margin-top: 1rem;
     }
 
- 
     .text {
         width: 58%;
     }
