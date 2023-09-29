@@ -3,9 +3,11 @@
 
 
 ### Author: Yoshihiro Nakagawasai
-Website: (https://website-portfolio-lovat.vercel.app/)
+[Website](https://website-portfolio-lovat.vercel.app/)
 
-Github Repository: (https://github.com/YoshihiroNak/website-portfolio)
+[Github Repository](https://github.com/YoshihiroNak/website-portfolio)
+
+[Presentation](ppt/YoshihiroNakagawasai_T1A2_slide-deck.pdf)
 
 ##Purpose
 The purpose of this site is the effective way to show my skills for potential employers to know how I develop a website. 
