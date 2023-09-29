@@ -1,10 +1,10 @@
 # T1A2 Portfolio Assignment
-<<<<<<< HEAD
-# T1A2 Portfolio Assignment
-=======
->>>>>>> d10c4ba04c733c7a6450166dec3a534973168b76
+
+
+
 ### Author: Yoshihiro Nakagawasai
 Website: (https://website-portfolio-lovat.vercel.app/)
+
 Github Repository: (https://github.com/YoshihiroNak/website-portfolio)
 
 ##Purpose
@@ -38,9 +38,10 @@ This page alse has my resume. To click my resume button allows you to my resume 
 Thia blog page povides images of landscape in Byron Bay and Gold Coast.
 Image itself has feature of button. So click the image and access the post page.
 
-<<<<<<< HEAD
+
 ## Sitemap
 ![](docs/sitemap.jpg)
+
 
 ## Screenshots
 
@@ -48,6 +49,7 @@ Image itself has feature of button. So click the image and access the post page.
 
 #### Desktop:
 ![](docs/DesktopHomePage.screenshot.png)
+
 ![](docs/DesktopHomePage.screenshot2.png)
 
 #### Tablet:
@@ -55,20 +57,25 @@ Image itself has feature of button. So click the image and access the post page.
 
 #### Mobile:
 ![](docs/MobileHomePage.screenshot.png)
+
 ![](docs/MobileHomePage.screenshot2.png)
+
 
 ### About page:
 
 #### Desktop:
 ![](docs/DesktopAboutPage.screenshot.png)
+
 ![](docs/DesktopAboutPage.screenshot2.png)
 
 #### Tablet:
 ![](docs/TabletAboutPage.screenshot.png)
+
 ![](docs/TabletAboutPage.screenshot2.png)
 
 #### Mobile:
 ![](docs/MobileAboutPage.screenshot.png)
+
 ![](docs/MobileAboutPage.screenshot2.png)
 
 
@@ -76,6 +83,7 @@ Image itself has feature of button. So click the image and access the post page.
 
 #### Desktop:
 ![](docs/DesktopExperiencesPage.screenshot.png)
+
 ![](docs/DesktopExperiencesPage.screenshot2.png)
 
 #### Tablet:
@@ -83,20 +91,25 @@ Image itself has feature of button. So click the image and access the post page.
 
 #### Mobile:
 ![](docs/mobileExperiencesPage.screenshot.png)
+
 ![](docs/mobileExperiencesPage.screenshot2.png)
+
 
 ### Blog page:
 
 #### Desktop:
 ![](docs/DesktopblogPage.screenshot.png)
+
 ![](docs/DesktopblogPage.screenshot2.png)
 
 #### Tablet:
 ![](docs/TabletblogPage.screenshot.png)
+
 ![](docs/TabletblogPage.screenshot2.png)
 
 #### Mobile:
 ![](docs/mobileblogPage.screenshot.png)
+
 ![](docs/mobileblogPage.screenshot2.png)
 
 ### Blog page:
@@ -106,6 +119,7 @@ Image itself has feature of button. So click the image and access the post page.
 
 #### Mobile:
 ![](docs/MobileblogpostPage.screenshot.png)
+
 ![](docs/MobileblogpostPage.screenshot2.png)
 
 # Target Audience
@@ -118,10 +132,4 @@ Image itself has feature of button. So click the image and access the post page.
 + WWireframe and Sitemap: Figma
 + Resume: Google docs
 + Deploy: Vercel
-=======
-##Sitemap
-![](docs/sitemap.jpg)
 
-##Screenshots
-
->>>>>>> d10c4ba04c733c7a6450166dec3a534973168b76
