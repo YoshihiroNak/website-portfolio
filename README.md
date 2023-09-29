@@ -1,5 +1,8 @@
 # T1A2 Portfolio Assignment
+<<<<<<< HEAD
 # T1A2 Portfolio Assignment
+=======
+>>>>>>> d10c4ba04c733c7a6450166dec3a534973168b76
 ### Author: Yoshihiro Nakagawasai
 Website: (https://website-portfolio-lovat.vercel.app/)
 Github Repository: (https://github.com/YoshihiroNak/website-portfolio)
@@ -35,6 +38,7 @@ This page alse has my resume. To click my resume button allows you to my resume 
 Thia blog page povides images of landscape in Byron Bay and Gold Coast.
 Image itself has feature of button. So click the image and access the post page.
 
+<<<<<<< HEAD
 ## Sitemap
 ![](docs/sitemap.jpg)
 
@@ -114,3 +118,10 @@ Image itself has feature of button. So click the image and access the post page.
 + WWireframe and Sitemap: Figma
 + Resume: Google docs
 + Deploy: Vercel
+=======
+##Sitemap
+![](docs/sitemap.jpg)
+
+##Screenshots
+
+>>>>>>> d10c4ba04c733c7a6450166dec3a534973168b76
